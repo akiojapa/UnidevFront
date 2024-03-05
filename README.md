@@ -1,8 +1,8 @@
 <h1 align = "center" > Landing Page Unidev</h1>
 
-## Projeto ##
+## Unidev TI ##
 ```
-Este projeto foi realizado por consultores da Unidev com a pretensão de estudo
+Este projeto foi realizado por consultores da Unidev com a ideia de sinalizar o objetivo da Unidev e o que consultoria de TI pode oferecer.
 
 ```
 
